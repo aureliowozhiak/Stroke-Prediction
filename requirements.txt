@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+joblib
+xlrd<2.0.0
+
+
